@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Polygon()
+comment0.text=\n\ Contructor\ for\ the\ objects\ of\ class\ Polygon\n
+comment1.params=point
+comment1.target=void\ addPoint(java.awt.Point)
+comment1.text=\n\ Adds\ a\ point\ to\ the\ polygon\n\ @param\ point\ to\ be\ added\ to\ the\ polygon\n
+comment2.params=
+comment2.target=double\ perimeter()
+comment2.text=\n\ Returns\ the\ perimeter\ of\ the\ polygon\n\ -\ sum\ of\ the\ length\ of\ all\ the\ lines\ in\ the\ polygon\n
+comment3.params=
+comment3.target=void\ draw()
+comment3.text=\n\ draws\ the\ current\ polygon\n\ drawing\ lines\ between\ each\ point\ and\ then\ the\ last\ one\ back\ to\ the\ first\n\ \n
+numComments=4

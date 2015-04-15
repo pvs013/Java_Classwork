@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=Cube(double)
+comment1.params=
+comment1.target=double\ getVolume()
+comment1.text=\n\ get\ the\ volume\ of\ the\ cube\n\ @return\ a\ double\ with\ the\ volume\n
+comment2.params=
+comment2.target=double\ getSurfaceArea()
+comment2.text=\n\ get\ the\ Surface\ Area\ of\ the\ cube\n\ @return\ double\ containing\ the\ surface\ area\n\ \n
+numComments=3

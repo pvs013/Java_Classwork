@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ display()
+comment0.text=\n\ display\ question\ for\ true/false\n\ \ \ \ Prepend\ the\ question\ with\ "Answer\ True\ or\ False\:\ "\n\ \n
+comment1.params=inanswer
+comment1.target=void\ setAnswer(java.lang.String)
+comment2.params=response
+comment2.target=boolean\ checkAnswer(java.lang.String)
+comment2.text=\n\ \ \ \ \ \ \ Checks\ a\ given\ response\ for\ correctness.\n\ \ \ \ \ \ \ @param\ response\ the\ response\ to\ check\n\ \ \ \ \ \ \ @return\ true\ if\ the\ response\ was\ correct,\ false\ otherwise\n
+numComments=3

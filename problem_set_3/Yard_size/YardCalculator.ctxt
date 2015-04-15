@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=theLength\ theWidth
+comment0.target=YardCalculator(double,\ double)
+comment0.text=\n\ Constructs\ a\ YardCalculator\ with\ the\ given\ parameters\n\ @param\ theLength\ the\ length\ of\ the\ yard\n\ @param\ theWidth\ the\ width\ of\ the\ yard\n
+comment1.params=
+comment1.target=double\ perimeter()
+comment1.text=\n\ Gets\ the\ perimeter\ of\ the\ yard\n\ P\ \=\ 2(length*width)\n\ @return\ the\ perimeter\n
+comment2.params=
+comment2.target=double\ area()
+comment2.text=\n\ Gets\ the\ area\ of\ the\ yard\n\ A\ \=\ wl\n\ @return\ the\ area\n
+comment3.params=
+comment3.target=double\ diagonal()
+comment3.text=\n\ Gets\ the\ diagonal\ of\ the\ yard\n\ diagonal\ \=\ square\ root\ of\ (width^2\ plus\ height^2)\n\ @return\ the\ diagonal\n
+numComments=4

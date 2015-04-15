@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=numberOfSeats
+comment0.target=Car(int)
+comment0.text=\n\ \ \ \ \ \ \ \ Constructs\ a\ car\ with\ a\ given\ number\ of\ seats\n\ \ \ \ \ \ \ \ @param\ numberOfSeats\ the\ number\ of\ seats\ in\ this\ car.\n
+comment1.params=name
+comment1.target=void\ addPassenger(java.lang.String)
+comment1.text=\n\ \ \ \ \ \ \ Adds\ a\ passenger\ to\ this\ car,\ provided\ that\ there\ is\ space.\n\ \ \ \ \ \ \ @param\ name\ the\ name\ of\ the\ passenger\n
+comment2.params=
+comment2.target=int\ getPassengerCount()
+comment2.text=\n\ \ \ \ \ \ \ Gets\ the\ number\ of\ passengers\ in\ this\ car\ (not\ counting\ the\ driver).\n\ \ \ \ \ \ \ @return\ the\ number\ of\ passengers\n
+comment3.params=
+comment3.target=java.lang.String\ getPassengerList()
+comment3.text=\n\ \ \ \ \ \ \ Gets\ a\ list\ of\ all\ passengers\ in\ this\ car.\n\ \ \ \ \ \ \ @return\ a\ list\ of\ the\ form\ [name1,\ name2,\ ...]\n
+numComments=4

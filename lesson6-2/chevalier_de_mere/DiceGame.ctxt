@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DiceGame()
+comment1.params=
+comment1.target=boolean\ game1()
+comment1.text=\ \n\ Throw\ a\ die\ four\ times\ and\ bet\ on\ at\ least\ one\ 6.\ \n\ @return\ true\ if\ the\ chevalier\ wins.\ \n
+comment2.params=
+comment2.target=boolean\ game2()
+comment2.text=\n\ Throw\ two\ dice\ 24\ times\ and\ bet\ on\ at\ least\ one\ double-six.\n\ @return\ true\ if\ the\ chevalier\ wins.\ \n
+numComments=3

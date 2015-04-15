@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=numberOfSeats
+comment0.target=Car(int)
+comment0.text=\n\ \ \ \ \ \ \ \ Constructs\ a\ car\ with\ a\ given\ number\ of\ seats\n\ \ \ \ \ \ \ \ @param\ numberOfSeats\ the\ number\ of\ seats\ in\ this\ car.\n
+comment1.params=name
+comment1.target=void\ setDriverName(java.lang.String)
+comment1.text=\n\ \ \ \ \ \ \ Sets\ the\ Driver\ Name\ for\ this\ car.\n\ \ \ \ \ \ \ @param\ name\ the\ name\ of\ the\ driver\n
+comment2.params=
+comment2.target=java.lang.String\ getDriverName()
+comment2.text=\n\ \ \ \ \ \ \ Gets\ the\ Driver\ Name\ for\ this\ car.\n\ \ \ \ \ \ \ @return\ String\ the\ name\ of\ the\ driver\n
+comment3.params=name
+comment3.target=void\ addPassenger(java.lang.String)
+comment3.text=\n\ \ \ \ \ \ \ Adds\ a\ passenger\ to\ this\ car.\n\ \ \ \ \ \ \ @param\ name\ the\ name\ of\ the\ passenger\n
+comment4.params=
+comment4.target=int\ getOccupantCount()
+comment4.text=\n\ \ \ \ \ \ \ Gets\ the\ number\ of\ occupants\ in\ this\ car.\n\ \ \ \ \ \ \ @return\ the\ number\ of\ occupants\n
+comment5.params=
+comment5.target=java.lang.String\ getPassengerList()
+comment5.text=\n\ \ \ \ \ \ \ Gets\ a\ list\ of\ all\ passengers\ in\ this\ car.\n\ \ \ \ \ \ \ @return\ a\ list\ of\ the\ form\ [name1,\ name2,\ ...]\n
+numComments=6

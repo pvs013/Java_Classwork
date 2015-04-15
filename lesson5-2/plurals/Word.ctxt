@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=letters
+comment0.target=Word(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getPluralForm()
+comment1.text=\n\ \ \ \ \ \ \ \ Forms\ the\ plural\ of\ this\ word.\n\ \ \ \ \ \ \ \ @return\ the\ plural,\ using\ the\ rules\ for\ regular\ nouns\n
+comment2.params=i
+comment2.target=boolean\ isVowel(int)
+comment2.text=\n\ \ \ \ \ \ \ Tests\ whether\ the\ ith\ letter\ is\ a\ vowel.\n\ \ \ \ \ \ \ @param\ i\ the\ index\ of\ the\ letter\ to\ test\n\ \ \ \ \ \ \ @return\ true\ if\ the\ ith\ letter\ is\ a\ vowel\n
+comment3.params=i
+comment3.target=boolean\ isConsonant(int)
+comment3.text=\n\ \ \ \ \ \ \ Tests\ whether\ the\ ith\ letter\ is\ a\ consonant.\n\ \ \ \ \ \ \ @param\ i\ the\ index\ of\ the\ letter\ to\ test\n\ \ \ \ \ \ \ @return\ true\ if\ the\ ith\ letter\ is\ a\ consonant\n
+comment4.params=i\ letter
+comment4.target=boolean\ is(int,\ java.lang.String)
+comment4.text=\n\ Checks\ what\ letter\ is\ in\ position\ i\n\ @return\ true\ when\ the\ the\ letter\ of\ letters\ is\ the\ given\ letter.\n\ \ \ \ \ \ \ \ \ false\ otherwise.\n\ @param\ i\ index\ in\ letters\n\ @param\ letter\ the\ letter\ to\ match\ with.\ must\ be\ one\ character\ long.\n
+numComments=5
